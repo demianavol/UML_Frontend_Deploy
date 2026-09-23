@@ -1,0 +1,1 @@
+import{a as p}from"./SleepLogHelper-CJ5Sr2FS.js";let t=null;const S=e=>{t=e},T=()=>t,m=(e,a,o,d,s,g="night",i={},n={},l=[])=>{p(e,{bedtime:o,duration:a,mood:d,note:s??"",type:g==="day"?"day":"night",details:i,customDetails:l,cutoffs:n})};export{m as a,T as g,S as s};
