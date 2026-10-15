@@ -1,0 +1,1 @@
+.todo-step-actions>button{display:inline-grid;place-items:center;width:44px;height:44px;min-height:44px;padding:0!important;border:0!important;background:transparent!important;border-radius:9px;color:inherit;cursor:pointer}.todo-step-actions>button:disabled{opacity:.3;cursor:default}.todo-step-actions>button:focus-visible{outline:2px solid #79c9e4;outline-offset:-2px}
