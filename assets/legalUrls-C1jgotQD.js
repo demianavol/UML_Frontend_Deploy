@@ -1,0 +1,1 @@
+import{fz as e}from"./index--BY3d8o6.js";function i(t){const r=String(t||"").replace(/\/+$/,"");return{ru:{terms:`${r}/ru/terms`,privacy:`${r}/ru/privacy`},en:{terms:`${r}/terms`,privacy:`${r}/privacy`}}}const a=i(e);export{a as L};
