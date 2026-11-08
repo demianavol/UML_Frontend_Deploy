@@ -1,0 +1,310 @@
+{
+  "5": {
+    "names": [
+      "Пуловер",
+      "Dumbbell Pullover"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "straight-arm-dumbbell-pullover",
+    "frames": [
+      "everkinetic-0079/relaxation.svg",
+      "everkinetic-0079/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "16": {
+    "names": [
+      "Сгибание рук со штангой стоя",
+      "Barbell Curl"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "biceps-curls-with-barbell",
+    "frames": [
+      "everkinetic-0211/relaxation.svg",
+      "everkinetic-0211/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "17": {
+    "names": [
+      "Сгибание рук с гантелями поочередно",
+      "Alternating Dumbbell Curl"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "alternating-biceps-curl-with-dumbbell",
+    "frames": [
+      "everkinetic-0223/relaxation.svg",
+      "everkinetic-0223/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "19": {
+    "names": [
+      "Сгибание рук на скамье Скотта",
+      "Preacher Curl"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "preacher-curl-with-barbell",
+    "frames": [
+      "everkinetic-0239/relaxation.svg",
+      "everkinetic-0239/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "43": {
+    "names": [
+      "Подъемы на носки стоя со штангой",
+      "Standing Barbell Calf Raise"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "standing-barbell-calf-raise",
+    "frames": [
+      "everkinetic-0281/relaxation.svg",
+      "everkinetic-0281/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "54": {
+    "names": [
+      "Разгибание рук с верхнего блока обратным хватом",
+      "Reverse-Grip Triceps Pushdown"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "reverse-grip-triceps-pushdown",
+    "frames": [
+      "everkinetic-0189/relaxation.svg",
+      "everkinetic-0189/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "67": {
+    "names": [
+      "Жим штанги сидя",
+      "Seated Barbell Shoulder Press"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "seated-military-press",
+    "frames": [
+      "everkinetic-0004/relaxation.svg",
+      "everkinetic-0004/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "71": {
+    "names": [
+      "Шраги в тренажере Смита",
+      "Smith Machine Shrugs"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "smith-machine-shoulder-shrugs",
+    "frames": [
+      "everkinetic-0041/relaxation.svg",
+      "everkinetic-0041/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "74": {
+    "names": [
+      "Тяга штанги в наклоне обратным хватом",
+      "Reverse-Grip Bent-Over Row"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "reverse-grips-bent-over-barbell-rows",
+    "frames": [
+      "everkinetic-0026/relaxation.svg",
+      "everkinetic-0026/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "83": {
+    "names": [
+      "Сгибание с супинацией",
+      "Dumbbell Curl with Supination"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "biceps-curl-with-dumbbell",
+    "frames": [
+      "everkinetic-0224/relaxation.svg",
+      "everkinetic-0224/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "85": {
+    "names": [
+      "Сгибание Зоттмана",
+      "Zottman Curl"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "zottman-curl-with-dumbbells",
+    "frames": [
+      "everkinetic-0251/relaxation.svg",
+      "everkinetic-0251/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "95": {
+    "names": [
+      "Тяга гантелей к подбородку",
+      "Dumbbell Upright Row"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "dumbbell-upright-rows",
+    "frames": [
+      "everkinetic-0016/relaxation.svg",
+      "everkinetic-0016/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "122": {
+    "names": [
+      "Сгибание ног стоя",
+      "Standing Leg Curl"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "standing-leg-curls",
+    "frames": [
+      "everkinetic-0120/relaxation.svg",
+      "everkinetic-0120/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  },
+  "130": {
+    "names": [
+      "Приседания в ящик",
+      "Box Squat"
+    ],
+    "provider": "everkinetic",
+    "credit": "Everkinetic · Greg Priday",
+    "slug": "squat-to-bench-with-barbell",
+    "frames": [
+      "everkinetic-0133/relaxation.svg",
+      "everkinetic-0133/tension.svg"
+    ],
+    "invert": true,
+    "attribution": {
+      "creator": "Everkinetic / Greg Priday",
+      "source": "https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Original SVG files unchanged; inverted and blended on a dark background in CSS; two poses sequenced for display"
+    },
+    "revision": "446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6"
+  }
+}
