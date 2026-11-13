@@ -1,0 +1,1 @@
+import{X as i,A as n}from"./index-3Lc5uNkM.js";import{c as a}from"./calmVisualEffects-YYenbPbK.js";const c="#579BC8",s=()=>i(n.trainingAccentColor||c,c),e=t=>a({light:t==="light"||t==="speciallight",warm:t==="coffee"});export{e as a,s as g};
