@@ -1,0 +1,41 @@
+[
+  {
+    "id": "companions",
+    "date": "2026-11-20",
+    "ru": {
+      "title": "У твоих привычек появился спутник",
+      "image": "companions/luma-ru.jpg",
+      "alt": "Люма с серебристыми крыльями. Дело даёт 10 опыта и до 10 энергии. Для нового уровня нужно 60 опыта. Люма сияет от 60 энергии. За каждые 12 часов отдыха энергия снижается максимум на 20, а опыт сохраняется.",
+      "body": "Выбери спутника в настройках главного экрана. Отмечай привычки, задачи и тренировки, чтобы он рос. В профилях друзей можно посмотреть, как выглядят их спутники и каких боссов они уже победили.",
+      "coverTitle": "Знакомься,\nэто Люма",
+      "figures": [
+        {
+          "value": "+10 XP",
+          "label": "за дело"
+        },
+        {
+          "value": "60 XP",
+          "label": "за уровень"
+        }
+      ]
+    },
+    "en": {
+      "title": "Meet your new habit companion",
+      "image": "companions/luma-en.jpg",
+      "alt": "Luma with silvery wings. An activity gives 10 XP and up to 10 energy. Every 60 XP earns a level. Luma glows at 60 energy. After each 12 hours of rest, energy drops by up to 20. Earned XP stays.",
+      "body": "Choose a companion in Home screen settings. Log habits, tasks and workouts to help it grow. Visit a friend’s profile to see their companion or the bosses they’ve defeated.",
+      "coverTitle": "Meet Luma",
+      "figures": [
+        {
+          "value": "+10 XP",
+          "label": "per activity"
+        },
+        {
+          "value": "60 XP",
+          "label": "per level"
+        }
+      ]
+    },
+    "cover": "companions/luma-cover.webp"
+  }
+]
